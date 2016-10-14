@@ -16,7 +16,7 @@
 #define LINES_BTB 512 // Definido de forma empirica 512
 
 
-#define PATH "/Users/diegogomestome/Documents/UFPR/ARQUITETURA/"
+#define PATH "/Users/diegogomestome/Documents/UFPR/ARQUITETURA/Trabalho 1/"
 
 signed int perceptrons[NUM_PERCEPTRONS][NUM_WEIGHTS] = {1};
 signed int branchHistory[HISTORY_LENGTH] = {1};
